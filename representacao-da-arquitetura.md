@@ -1,27 +1,17 @@
 # Representação da Arquitetura
 
 ## Modelo de Arquitetura
+![](.gitbook/assets/arquitetura.PNG)
 
-O modelo de arquitetura adotado foi XXX \(MVC, MVP, MVVM, ...\)
-
-Explicar a lógica entre as camadas
-
-* A
-* B
-* C
-* D
-
-![Arquitetura da Solu&#xE7;&#xE3;o](.gitbook/assets/image.png)
-
-Explicar  as abstrações das camadas \(ou seja, cada camada e "explodir"\)
-
-![](.gitbook/assets/image%20%281%29.png)
-
-## Visão Lógica
-
-### Diagrama de Classes
+### Fluxos
+- Usuario interage com React Native.
+- Ação do Usuário causa uma chamada para a API do Node ou do Cometchat.
+- Caso a chamada tenho sido para a API do Cometchat, ela ira receber as mensagens que estão armazenadas para o usuário e seus Matchs.
+- Caso chamada tenha sido para API Node, ela identifica o pedido e processa oque foi requisitado.
+- Caso a API Node precise armazenar uma foto ela irá se comunicar com o Cloudinary.
+- Caso a API Node precise buscar, alterar ou excluir dados da base de dados ela irá se comunicar com o MongoDB.
 
 ### Banco de Dados
+![](.gitbook/assets/modelobd.PNG)
 
-###  
 
