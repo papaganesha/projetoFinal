@@ -1,4 +1,4 @@
-# Canvas do Produto
+# Canvas MVP
 
-Apresentar o BMC, PMC ou _MVP Canvas_
+![](.gitbook/assets/canvas.PNG)
 
