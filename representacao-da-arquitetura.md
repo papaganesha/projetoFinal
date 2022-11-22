@@ -11,6 +11,8 @@
 - Caso a API Node precise armazenar uma foto ela irá se comunicar com o Cloudinary.
 - Caso a API Node precise buscar, alterar ou excluir dados da base de dados ela irá se comunicar com o MongoDB.
 
+## Visão Lógica
+
 ### Banco de Dados
 ![](.gitbook/assets/modelobd.PNG)
 
