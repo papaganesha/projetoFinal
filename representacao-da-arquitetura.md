@@ -16,4 +16,7 @@
 ### Banco de Dados
 ![](.gitbook/assets/modelobd.PNG)
 
+## Especificação dos casos de Uso
+
+
 
