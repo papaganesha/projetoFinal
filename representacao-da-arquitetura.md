@@ -13,10 +13,11 @@
 
 ## Visão Lógica
 
-### Banco de Dados
-![](.gitbook/assets/modelobd.PNG)
+### Banco de Dados -- Esquema Json
+![](.gitbook/assets/userSchema.PNG)
 
-## Especificação dos casos de Uso
+## Requisitos, Casos de Uso, Regras de Negócio
+- https://docs.google.com/document/d/19oKj4Zr_HFHgyRyFSSqEWiRJWSP0U0Mtd7cCmj3HGtw/edit?usp=sharing
 
 
 
