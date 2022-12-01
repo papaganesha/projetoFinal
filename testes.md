@@ -3,7 +3,8 @@
 ### Objetivos do Projeto
 - Publicar um perfil pessoal dos usuários.
 - Encontrar pessoas de acordo com sua cidade.
-- Gerar conexão entre usuários que se gostem(Match).
+- Permitir que pessoas gostem umas das outras.
+- Gerar conexão entre usuários que se gostarem(Match).
 - Promover interação entre os usuários que se gostarem através de um chat.
 - Permitir que as pessoas possam se registrar e posteriormente possam realizar sua autenticação.
 
