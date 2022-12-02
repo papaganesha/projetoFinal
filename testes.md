@@ -16,4 +16,19 @@
 - O que você indicaria para alterações ou até mesmo remoções, falando de funcionalidades, visual, etc?
 - Com base Usuário conclui que o aplicativo esteja em conformidade com os objetivos?
 
+### Respostas
+
+**Fabio**
+- Como foi sua experiencia utilizando o aplicativo? **fácil, interface muito interativa com o usuário.**
+- O aplicativo tem um bom visual? **Sim.**
+- O que você indicaria para alterações ou até mesmo remoções, falando de funcionalidades, visual, etc? **Adicionaria um modo dark.**
+- Com base Usuário conclui que o aplicativo esteja em conformidade com os objetivos? **Sim, entrega mais do que o esperado.**
+
+**Adriano**
+- Como foi sua experiencia utilizando o aplicativo? **Foi boa, ele tem funcionalidades básicas, não vejo muito oque acrescentar já que é um aplicativo de relacionamentos.**
+- O aplicativo tem um bom visual?**Sim, o visual dele é bonito, apenas a logo dele que eu não me interessei, porém é questão de gosto pessoal.
+- O que você indicaria para alterações ou até mesmo remoções, falando de funcionalidades, visual, etc? **Adicionar notificações.**
+- Com base Usuário conclui que o aplicativo esteja em conformidade com os objetivos? **Sim,  tem como eu publicar meu perfil para as outras pessoas, pessoas da minha cidade, permite encontrar pessoas com meu gosto pessoal, permite dar match, consigo enviar mensagem com quem eu dei match.**
+
 ### Conclusões
+Analisando as respostas levantadas foi possivel concluir que o sistema cumpre com os principais objetivos levantados para construção do mesmo.
